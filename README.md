@@ -3,10 +3,10 @@
 # Gregorio de Almeida Queiroz  
 🌐 [www.gregmaster.com.br](https://gregmaster.com.br/) 🗺️ **Sorocaba/SP**  📧 gregmasterbr@gmail.com  📲 [Whatsapp](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
 
-* [**Linkedin**](https://www.linkedin.com/in/gregmasterbr/) 
-* [**Facebook**](https://www.facebook.com/GregMasterQueiroz/) 
-* [**Youtube**](https://www.youtube.com/user/greg17031991) 
-* [**Blog**](https://gregorioalmeidaqueiroz.wordpress.com/)  
+* [**Linkedin**](https://www.linkedin.com/in/gregmasterbr/)
+* [**Facebook**](https://www.facebook.com/GregMasterQueiroz/)
+* [**Youtube**](https://www.youtube.com/user/greg17031991)
+* [**Blog**](https://gregorioalmeidaqueiroz.wordpress.com/)
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
