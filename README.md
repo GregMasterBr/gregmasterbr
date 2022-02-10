@@ -4,7 +4,7 @@
 [www.gregmaster.com.br](https://gregmaster.com.br/)  
 
 #### Informações pessoais
-**Sorocaba/SP**  gregmasterbr@gmail.com  [](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
+**Sorocaba/SP**  gregmasterbr@gmail.com  [f232](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
 
 
 <!--
