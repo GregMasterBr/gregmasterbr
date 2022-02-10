@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Gregorio de Almeida Queiroz  
 🌐 [www.gregmaster.com.br](https://gregmaster.com.br/) 🗺️ **Sorocaba/SP**  📧 gregmasterbr@gmail.com  📲 [Whatsapp](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
 
@@ -22,7 +20,11 @@ Além destes projetos, tenho o hábito da escrita no meus blogs. Como consequên
 
 Gosto do movimento em sentir-se inserido em comunidades, e consequentemente participar ativamente. Tive uma grata experiência em 2016/2017 em idealizar e gerenciar a iniciativa **NOW.ventures** - um espaço maker de colaboração em projetos e ainda hoje, moderar comunidades virtuais (facebook) - [grupo de Microempreendedores Individuais (MEIs) com mais de 62 mil membros](https://bit.ly/portaldomei) e o [grupo de profissionais de Radiologia - com mais de 40 mil membros](#).
 
+Para me relacionar participo de eventos, feiras e também realizando palestras e eventos (presenciais e virtuais).
 
+Sou uma pessoa sociável e comprometida com o trabalho. Gosto de ambientes tranquilos e engajados, que favoreçam o desenvolvimento individual e coletivo. 
+
+**Neste momento de vida me encontro como Esperantista, aquele que carrega a esperança e falante da língua Esperanto, Enxadrista, Minimalista e Pythonista.**
 
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
