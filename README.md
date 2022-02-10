@@ -34,6 +34,17 @@ Sou uma pessoa sociável e comprometida com o trabalho. Gosto de ambientes tranq
 * Coordenadoria de Equipes de Trabalho (SCRUM MASTER, PRODUCT OWNER);
 * Desenvolvimento/Programação.
 
+### ALINHAMENTO DE EXPECTATIVA - TRANSPARÊNCIA 📌
+Sou um profissional com pés na tecnologia, com experiências em diversas áreas do negócio devido às oportunidades proporcionadas pelo exercício do empreendedorismo.
+
+Desta maneira, procuro empresas/startups que possuem esse viés de inovação. Gosto participar da criação de projetos e produtos. Acompanhando desde os primeiros passos da idealização, desenvolvimento do canvas, público alvo, proposta de valor, estratégias de marketing, segmentação, listas de e-mails e da produção de conteúdo. Participar da elaboração do plano de crescimento pós fases do MVP até posteriormente o início de um novo ciclo com programas ou produtos complementares na esteira de produtos da empresa.
+
+Sou uma pessoa analítica, com habilidades multidisciplinares em desenvolvimento, marketing, comunicação e gestão.
+
+[Um conteúdo complementar do  Gergely Orosz que detalha um pouco sobre esse tipo de perfil: **The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+
+## MINHAS EXPERIÊNCIAS PROFISSIONAIS E PROJETOS 💡
+
 
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
