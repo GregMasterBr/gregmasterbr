@@ -24,7 +24,16 @@ Para me relacionar participo de eventos, feiras e também realizando palestras e
 
 Sou uma pessoa sociável e comprometida com o trabalho. Gosto de ambientes tranquilos e engajados, que favoreçam o desenvolvimento individual e coletivo. 
 
-**Neste momento de vida me encontro como Esperantista, aquele que carrega a esperança e falante da língua Esperanto, Enxadrista, Minimalista e Pythonista.**
+**Neste momento de vida me encontro como Esperantista, aquele que carrega a esperança e falante da língua Esperanto, Enxadrista, Minimalista e Pythonista.**  
+
+## O QUE POSSO OFERECER AO SEU NEGÓCIO
+* Atuar como Engenheiro de Produto, Gerente de projetos, Gerente de produtos, Coordenador de Produtos/Projetos, Techlead, Community Manager;
+* Desenvolvimento de MVP e outros iniciativas tecnológicas na organização;
+* Mentor, Agile Coach, Consultor e Facilitador de Tecnologia;
+* Organizar o processo de desenvolvimento para o time de tecnologia ou iniciar o departamento na empresa;
+* Coordenadoria de Equipes de Trabalho (SCRUM MASTER, PRODUCT OWNER);
+* Desenvolvimento/Programação.
+
 
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
