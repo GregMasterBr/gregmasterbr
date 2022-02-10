@@ -3,6 +3,8 @@
 # Gregorio de Almeida Queiroz  
 [www.gregmaster.com.br](https://gregmaster.com.br/)  
 
+#### Informações pessoais
+**Sorocaba/SP**  gregmasterbr@gmail.com  [15 981057742](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
 
 
 <!--
