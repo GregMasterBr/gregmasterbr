@@ -1,4 +1,4 @@
-# <img style="height:auto;" alt="" width="80" height="80" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/11060618?v=4"> Gregorio de Almeida Queiroz  
+# <img style="height:auto;" alt="" width="60" height="60" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/11060618?v=4"> Gregorio de Almeida Queiroz  
 🌐 [www.gregmaster.com.br](https://gregmaster.com.br/) 🗺️ **Sorocaba/SP**  📧 gregmasterbr@gmail.com  📲 [Whatsapp](http://wa.me/5515981057742) [Telegram](https://t.me/GregMasterBr)
 
 * [**Linkedin**](https://www.linkedin.com/in/gregmasterbr/)
