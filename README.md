@@ -180,12 +180,20 @@ Estagiário na Faculdade de Tecnologia de Sorocaba. Manutenção dos conteúdos 
 ### OUTROS PROJETOS
 
 1. **Portal do MEI** - Comunidade no facebook ativa com mais de 51 mil membros, ajudando empreendedores iniciantes e aspirantes a empreender a desenvolver e melhorar o seu negócio. Para conhecer, visite: https://www.facebook.com/groups/portaldomei/
-2. Diário de um MEI - Ebook (livro digital), contando minha experiência e aprendizado para quem deseja empreender no Brasil: Saiba mais em:   
-  2.1 [divulgação] - http://ebook.gregmaster.com.br/  
+2. Diário de um MEI - Ebook (livro digital), contando minha experiência e aprendizado para quem deseja empreender no Brasil:     
+  2.1 [site promocional] - http://ebook.gregmaster.com.br/  
   2.2 [depoimento] - https://www.youtube.com/watch?v=e1NzpI9xyTE  
   2.3 [palestra] - https://www.youtube.com/watch?v=fvmJoxDym4Y  
 3. TricoNerd - Loja Virtual para o público nerd/geek com acessórios feito em tricot ou chochet.
 4. iCOM - Plataforma de Avaliação Comprotamental - https://youtu.be/KvnlYsd93Jk
+
+## EDUCAÇÃO
+- Especialização Técnica em Gestão de Projetos, ETEC Rubens de Faria - Sorocaba - 1ºsem/2021
+- Graduação em Engenharia da Computação, UNIVESP - Polo Itapetininga - 8/2017 a 7/2022
+- Tecnólogo em Sistemas para Internet, Fatec São Roque - 01/2014 a 12/2016 
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, Fatec Sorocaba - 8/2010 a 7/2013 
+- Técnico em Técnico em Informática para Internet, Etec Fernando Prestes - 7/2009 a 12/2010
+- Técnico em Técnico em Informática, Etec São Roque - 8/2007 a 12/2008
 
 
 <!--
