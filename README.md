@@ -75,9 +75,47 @@ Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. 
 ![Aplicativo NISSIN - Marketing share](https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png)
 -->
 <p align="center">
-  <img alt="Aplicativo NISSIN - Marketing share"  height="350" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
+  <img alt="Aplicativo NISSIN - Marketing share"  height="450" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
 </p>
 
+### LabeEye [CRIAAÇÃO] [JAN/2017 - MAR/2020]
+
+Sistema universal de acoplagem para microscópios analógicos, adicionando recursos multimídias.
+
+#### Links:
+1. http://labeye.criaacao.art.br/
+2. https://canaisglobo.globo.com/assistir/futura/conexao-maker/v/8020848/
+3. [demonstração] - https://youtu.be/nRauGxIyeAI
+4. [demonstração] - https://youtu.be/FnVOmVbjg38
+5. 3º lugar Desafio Inovação FLEX (2019)
+6. [apresentação] - https://drive.google.com/file/d/1dsAESGPEVfL98ZHOS4dsanDg6llt49mM/view
+
+
+### Plataforma Calculadora Fatec [JAN/2015 - DEZ/2020]
+
+Ambiente para interessados nos vestibulares da Fatec. Plataforma com diversos recursos e também com área logada para assinantes. Ambiente desenvolvido com PHP e AngularJs.
+#### Links:
+1. https://calculadorafatec.gregmaster.com.br/calculadora.html
+2. https://calculadorafatec.gregmaster.com.br/calculadora/cursos/
+3. [vídeo] - https://www.youtube.com/watch?v=OvXeXvGzWRc
+4. [vídeo] - https://www.youtube.com/watch?v=tvBj0KpLPcI
+
+
+### Aplicativo Cardápio Digital [JUN/2018 - SET/2018]
+
+Aplicação WEBAPP para atendimento e anotação de pedidos, a estilo cardápio/comanda digital. Recurso desenvolvido com Material Design. HTML e FOXPro.
+
+#### Links:
+1. [demonstração] - https://www.youtube.com/watch?v=uPk1W28d_yU
+2. [demonstração]  - https://www.youtube.com/watch?v=IdrISqCxDxs
+
+### Plataforma de Simulado - Vestibular Fatec [JAN/2018 - MAI/2018]
+
+Ambiente para resolução das provas anteriores do vestibular da Fatec. Recurso desenvolvido com PHP e AngularJs.
+
+#### Links:
+1. [apresentação]  - https://www.youtube.com/watch?v=-mc5vuPVwIY
+2. [demonstração]  - https://calculadorafatec.gregmaster.com.br/calculadora/simulados-gratuitos/
 
 
 <!--
