@@ -149,7 +149,7 @@ Ecossistema maker na cidade de sorocaba, aberto a toda comunidade, com atividade
 1. [informação] - https://www.facebook.com/nowventures/
 2. [vídeo] -  https://youtu.be/0Rz4D0Iw6GQ
 
-###⚫ JQuant [MAI/2015 - JUL/2017]
+### ⚫ JQuant [MAI/2015 - JUL/2017]
 
 A JQuant é especializada em Inteligência Artificial. Trabalhei na empresa com a função de Desenvolvedor atendendo demandas internas e externas, como o desenvolvimento de dashboards,  landing pages, sites. Dentro das tecnologias utilizadas nas soluções: JavaScript, Node.Js, React, MongoDB, PHP. 
 
