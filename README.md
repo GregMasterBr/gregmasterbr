@@ -71,8 +71,12 @@ O desenvolvimento do trabalho segue uma metodologia própria para que o aluno co
 ### Aplicativo MarketShare de Produto [NOV/2020 - DEZ/2020]
 
 Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. Aplicativo para celulares Android, desenvolvido em React Native. Distribuição externa.  
-
+<!--
 ![Aplicativo NISSIN - Marketing share](https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png)
+-->
+<p align="center">
+  <img alt="Aplicativo NISSIN - Marketing share" width="460" height="300" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
+</p>
 
 
 
