@@ -141,6 +141,53 @@ Recurso terapêutico modular para o exercício e desenvolvimento da autonomia no
 4. [depoimento] - https://www.youtube.com/watch?v=xPHtA1GUGLQ
 
 
+### NOW.ventures [JAN/2016 - MAR/2017]
+
+Ecossistema maker na cidade de sorocaba, aberto a toda comunidade, com atividades para  - compartilhar conhecimento e experiência. Atuei como gestor de comunidades e responsável por direcionar a iniciativa promovendo discussões, experimentação, desenvolvimento de projetos, palestras, apoio e ações sociais.
+
+#### Links:
+1. [informação] - https://www.facebook.com/nowventures/
+2. [vídeo] -  https://youtu.be/0Rz4D0Iw6GQ
+
+### JQuant [MAI/2015 - JUL/2017]
+
+A JQuant é especializada em Inteligência Artificial. Trabalhei na empresa com a função de Desenvolvedor atendendo demandas internas e externas, como o desenvolvimento de dashboards,  landing pages, sites. Dentro das tecnologias utilizadas nas soluções: JavaScript, Node.Js, React, MongoDB, PHP. 
+
+#### Links:
+1. [instituicional] - https://jquant.com.br/
+
+### Aditiva Consultoria [JUN/2014 - MAI/2015]
+
+Empresa do segmento de consultoria em seguros. Atuei como desenvolvedor, colaborando na criação do sistema de ferramentas para o corretor (Kit Corretor). Ferramentas utulizadas: C# e PHP.
+
+#### Links:
+1. [institucional] - https://www.aditivaconsultoria.com.br/kitcorretor/
+
+### NC Soluções [OUT/2012 - JAN/2014]
+
+Empresa que tinha como produto o NetCorp (ERP). Atuei como desenvolvedor júnior, ajudando na manutenção dos códigos, e na construção de ferramentas online de OS (Ordem de Serviço) para atendimento e organização das demandas (tickets e nível) dos clientes quanto ao ERP. Ferramentas utilizadas: VB6, VB.Net, C#, Asp.Net, PHP.
+
+#### Links:
+1. [institucional] - https://ncsolucoes.com.br/
+
+### Fatec Sorocaba [FEV/2012 - OUT/2012]
+
+Estagiário na Faculdade de Tecnologia de Sorocaba. Manutenção dos conteúdos do site da instituição e a construção do castrado de automóveis que usavam o espaço da Fatec e geração de etiquetas para autorizar na portaria. Plataforma construída com a linguagem Asp.
+
+#### Links:
+1. [institucional] - http://www.fatecsorocaba.edu.br/
+
+### OUTROS PROJETOS
+
+1. **Portal do MEI** - Comunidade no facebook ativa com mais de 51 mil membros, ajudando empreendedores iniciantes e aspirantes a empreender a desenvolver e melhorar o seu negócio. Para conhecer, visite: https://www.facebook.com/groups/portaldomei/
+2. Diário de um MEI - Ebook (livro digital), contando minha experiência e aprendizado para quem deseja empreender no Brasil: Saiba mais em:
+ 2.1 [divulgação] - http://ebook.gregmaster.com.br/
+ 2.2 [depoimento] - https://www.youtube.com/watch?v=e1NzpI9xyTE
+ 2.3[palestra] - https://www.youtube.com/watch?v=fvmJoxDym4Y
+3. TricoNerd - Loja Virtual para o público nerd/geek com acessórios feito em tricot ou chochet.
+4. iCOM - Plataforma de Avaliação Comprotamental - https://youtu.be/KvnlYsd93Jk
+
+
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
