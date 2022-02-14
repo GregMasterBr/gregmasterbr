@@ -44,7 +44,7 @@ Sou uma pessoa analítica, com habilidades multidisciplinares em desenvolvimento
 [Um conteúdo complementar do  Gergely Orosz que detalha um pouco sobre esse tipo de perfil: **The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
 ## MINHAS EXPERIÊNCIAS PROFISSIONAIS E PROJETOS 💡  
-### GregMaster - Consultoria e Treinamento em TI [JUN/2017 -]
+### 🟢 GregMaster - Consultoria e Treinamento em TI [JUN/2017 -]
 
 Realizo prestação de serviço em tecnologia, como consultoria, desenvolvimento de sistemas, sites e aplicativos. Posso oferecer também treinamento para uso de softwares específicos, como por exemplo de ERP, Sistemas de gestão de salão de beleza. 
 Desenvolvimento de novos negócios e oportunidades. Uso esse espaço também para palestrar em eventos e escolas, como a Feira do Empreendedor (SEBRAE/2019), Fatec Sorocaba, Unesp Sorocaba.
@@ -52,7 +52,7 @@ Desenvolvimento de novos negócios e oportunidades. Uso esse espaço também par
 #### Links: 
 1. [instituicional] - http://gregmaster.com.br/
 
-### Mentoria Fatec Club [JAN/2019 - DEZ/2020]
+### 🔴 Mentoria Fatec Club [JAN/2019 - DEZ/2020]
 
 Programa de acompanhamento e direcionamento de estudos para candidatos que desejam atingir uma melhor performance na sua preparação com consistência e estratégia para o Vestibular da Fatec. O acompanhamento acontece por 4 meses com aulas remotas e professores especialistas neste tipo de vestibular.  
 
@@ -68,7 +68,7 @@ O desenvolvimento do trabalho segue uma metodologia própria para que o aluno co
 7. [evento online] - https://www.youtube.com/watch?v=l02jVT0u4iA
 8. [evento online] - https://youtu.be/XSF2lcMpn48
 
-### Aplicativo MarketShare de Produto [NOV/2020 - DEZ/2020]
+### 🔵 Aplicativo MarketShare de Produto [NOV/2020 - DEZ/2020]
 
 Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. Aplicativo para celulares Android, desenvolvido em React Native. Distribuição externa.  
 <!--
@@ -78,7 +78,7 @@ Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. 
   <img alt="Aplicativo NISSIN - Marketing share"  height="450" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
 </p>
 
-### LabeEye [CRIAAÇÃO] [JAN/2017 - MAR/2020]
+### 🔴 LabeEye [CRIAAÇÃO] [JAN/2017 - MAR/2020]
 
 Sistema universal de acoplagem para microscópios analógicos, adicionando recursos multimídias.
 
@@ -91,7 +91,7 @@ Sistema universal de acoplagem para microscópios analógicos, adicionando recur
 6. [apresentação] - https://drive.google.com/file/d/1dsAESGPEVfL98ZHOS4dsanDg6llt49mM/view
 
 
-### Plataforma Calculadora Fatec [JAN/2015 - DEZ/2020]
+### 🔴 Plataforma Calculadora Fatec [JAN/2015 - DEZ/2020]
 
 Ambiente para interessados nos vestibulares da Fatec. Plataforma com diversos recursos e também com área logada para assinantes. Ambiente desenvolvido com PHP e AngularJs.
 #### Links:
@@ -101,7 +101,7 @@ Ambiente para interessados nos vestibulares da Fatec. Plataforma com diversos re
 4. [vídeo] - https://www.youtube.com/watch?v=tvBj0KpLPcI
 
 
-### Aplicativo Cardápio Digital [JUN/2018 - SET/2018]
+### 🔴 Aplicativo Cardápio Digital [JUN/2018 - SET/2018]
 
 Aplicação WEBAPP para atendimento e anotação de pedidos, a estilo cardápio/comanda digital. Recurso desenvolvido com Material Design. HTML e FOXPro.
 
@@ -117,7 +117,7 @@ Ambiente para resolução das provas anteriores do vestibular da Fatec. Recurso 
 1. [apresentação]  - https://www.youtube.com/watch?v=-mc5vuPVwIY
 2. [demonstração]  - https://calculadorafatec.gregmaster.com.br/calculadora/simulados-gratuitos/
 
-### Plataforma Digital Participativa - Chatbot [JAN/2018 - ABR/2018]
+### 🔴 Plataforma Digital Participativa - Chatbot [JAN/2018 - ABR/2018]
 
 Plataforma Digital Participativa - DPP para promover a gestão democrática e participativa do meio ambiente.
 
@@ -128,7 +128,7 @@ A exemplo do conceituado site Reclame Aqui (reclameaqui.com.br), a construção 
 #### Links:
 1. [demonstração] - https://www.youtube.com/watch?v=FCvhUzTzwGc
 
-### DAPP [CRIAAÇÃO] [JAN/2018 - MAI/2018]
+### 🔴 DAPP [CRIAAÇÃO] [JAN/2018 - MAI/2018]
 
 Processo de produtificação em parceria com um graduando da Fatec Sorocaba em seu estudo em reabilitação e ferramentas assistivas. O DAPP é um Dispositivo de Adaptação à Preensão Palmar. 
 
@@ -141,7 +141,7 @@ Recurso terapêutico modular para o exercício e desenvolvimento da autonomia no
 4. [depoimento] - https://www.youtube.com/watch?v=xPHtA1GUGLQ
 
 
-### NOW.ventures [JAN/2016 - MAR/2017]
+### 🔴 NOW.ventures [JAN/2016 - MAR/2017]
 
 Ecossistema maker na cidade de sorocaba, aberto a toda comunidade, com atividades para  - compartilhar conhecimento e experiência. Atuei como gestor de comunidades e responsável por direcionar a iniciativa promovendo discussões, experimentação, desenvolvimento de projetos, palestras, apoio e ações sociais.
 
@@ -149,35 +149,35 @@ Ecossistema maker na cidade de sorocaba, aberto a toda comunidade, com atividade
 1. [informação] - https://www.facebook.com/nowventures/
 2. [vídeo] -  https://youtu.be/0Rz4D0Iw6GQ
 
-### JQuant [MAI/2015 - JUL/2017]
+###⚫ JQuant [MAI/2015 - JUL/2017]
 
 A JQuant é especializada em Inteligência Artificial. Trabalhei na empresa com a função de Desenvolvedor atendendo demandas internas e externas, como o desenvolvimento de dashboards,  landing pages, sites. Dentro das tecnologias utilizadas nas soluções: JavaScript, Node.Js, React, MongoDB, PHP. 
 
 #### Links:
 1. [instituicional] - https://jquant.com.br/
 
-### Aditiva Consultoria [JUN/2014 - MAI/2015]
+### ⚫ Aditiva Consultoria [JUN/2014 - MAI/2015]
 
 Empresa do segmento de consultoria em seguros. Atuei como desenvolvedor, colaborando na criação do sistema de ferramentas para o corretor (Kit Corretor). Ferramentas utulizadas: C# e PHP.
 
 #### Links:
 1. [institucional] - https://www.aditivaconsultoria.com.br/kitcorretor/
 
-### NC Soluções [OUT/2012 - JAN/2014]
+### ⚫ NC Soluções [OUT/2012 - JAN/2014]
 
 Empresa que tinha como produto o NetCorp (ERP). Atuei como desenvolvedor júnior, ajudando na manutenção dos códigos, e na construção de ferramentas online de OS (Ordem de Serviço) para atendimento e organização das demandas (tickets e nível) dos clientes quanto ao ERP. Ferramentas utilizadas: VB6, VB.Net, C#, Asp.Net, PHP.
 
 #### Links:
 1. [institucional] - https://ncsolucoes.com.br/
 
-### Fatec Sorocaba [FEV/2012 - OUT/2012]
+### ⚫ Fatec Sorocaba [FEV/2012 - OUT/2012]
 
 Estagiário na Faculdade de Tecnologia de Sorocaba. Manutenção dos conteúdos do site da instituição e a construção do castrado de automóveis que usavam o espaço da Fatec e geração de etiquetas para autorizar na portaria. Plataforma construída com a linguagem Asp.
 
 #### Links:
 1. [institucional] - http://www.fatecsorocaba.edu.br/
 
-### OUTROS PROJETOS
+### 🟣 OUTROS PROJETOS
 
 1. **Portal do MEI** - Comunidade no facebook ativa com mais de 51 mil membros, ajudando empreendedores iniciantes e aspirantes a empreender a desenvolver e melhorar o seu negócio. Para conhecer, visite: https://www.facebook.com/groups/portaldomei/
 2. Diário de um MEI - Ebook (livro digital), contando minha experiência e aprendizado para quem deseja empreender no Brasil:     
@@ -187,7 +187,7 @@ Estagiário na Faculdade de Tecnologia de Sorocaba. Manutenção dos conteúdos 
 3. TricoNerd - Loja Virtual para o público nerd/geek com acessórios feito em tricot ou chochet.
 4. iCOM - Plataforma de Avaliação Comprotamental - https://youtu.be/KvnlYsd93Jk
 
-## EDUCAÇÃO
+## 🏫 EDUCAÇÃO
 - Especialização Técnica em Gestão de Projetos, ETEC Rubens de Faria - Sorocaba - 1ºsem/2021
 - Graduação em Engenharia da Computação, UNIVESP - Polo Itapetininga - 8/2017 a 7/2022
 - Tecnólogo em Sistemas para Internet, Fatec São Roque - 01/2014 a 12/2016 
