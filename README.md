@@ -52,8 +52,25 @@ Desenvolvimento de novos negócios e oportunidades. Uso esse espaço também par
 #### Links: 
 1. [instituicional] - http://gregmaster.com.br/
 
+### Mentoria Fatec Club [JAN/2019 - DEZ/2020]
 
+Programa de acompanhamento e direcionamento de estudos para candidatos que desejam atingir uma melhor performance na sua preparação com consistência e estratégia para o Vestibular da Fatec. O acompanhamento acontece por 4 meses com aulas remotas e professores especialistas neste tipo de vestibular.  
 
+O desenvolvimento do trabalho segue uma metodologia própria para que o aluno consiga se desenvolver em espaço curto de tempo. Utilizamos oficinas e atividades diferenciadas como por exemplo um episódio de PodCast - conteúdo que posteriormente foi abordado como tema da redação, ou a possibilidade do candidato construir uma narrativa favorável para convencimento **vendendo uma ideia**.
+
+#### Links: 
+1. https://www.fatecclub.gregmaster.com.br/inscricoes-para-nova-turma-da-mentoria-fatec-club/
+2. https://www.fatecclub.gregmaster.com.br/2019/09/09/mentoria-fatec-club/
+3. [depoimento] - https://www.youtube.com/watch?v=fnfse5VKQbI
+4. [depoimento] - https://www.youtube.com/watch?v=kSutf5IXOa0
+5. [podcast] - https://www.youtube.com/watch?v=6IvcA8dtcCE
+6. [aluno - venda uma ideia] - https://www.youtube.com/watch?v=fbtCtR-le68
+7. [evento online] - https://www.youtube.com/watch?v=l02jVT0u4iA
+8. [evento online] - https://youtu.be/XSF2lcMpn48
+
+### Aplicativo MarketShare de Produto [NOV/2020 - DEZ/2020]
+
+Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. Aplicativo para celulares Android, desenvolvido em React Native. Distribuição externa.  
 
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
