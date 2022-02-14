@@ -181,9 +181,9 @@ Estagiário na Faculdade de Tecnologia de Sorocaba. Manutenção dos conteúdos 
 
 1. **Portal do MEI** - Comunidade no facebook ativa com mais de 51 mil membros, ajudando empreendedores iniciantes e aspirantes a empreender a desenvolver e melhorar o seu negócio. Para conhecer, visite: https://www.facebook.com/groups/portaldomei/
 2. Diário de um MEI - Ebook (livro digital), contando minha experiência e aprendizado para quem deseja empreender no Brasil: Saiba mais em: 
-    2.1 [divulgação] - http://ebook.gregmaster.com.br/
-    2.2 [depoimento] - https://www.youtube.com/watch?v=e1NzpI9xyTE
-    2.3[palestra] - https://www.youtube.com/watch?v=fvmJoxDym4Y
+        2.1 [divulgação] - http://ebook.gregmaster.com.br/
+        2.2 [depoimento] - https://www.youtube.com/watch?v=e1NzpI9xyTE
+        2.3 [palestra] - https://www.youtube.com/watch?v=fvmJoxDym4Y
 3. TricoNerd - Loja Virtual para o público nerd/geek com acessórios feito em tricot ou chochet.
 4. iCOM - Plataforma de Avaliação Comprotamental - https://youtu.be/KvnlYsd93Jk
 
