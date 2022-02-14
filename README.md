@@ -43,7 +43,16 @@ Sou uma pessoa analítica, com habilidades multidisciplinares em desenvolvimento
 
 [Um conteúdo complementar do  Gergely Orosz que detalha um pouco sobre esse tipo de perfil: **The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
-## MINHAS EXPERIÊNCIAS PROFISSIONAIS E PROJETOS 💡
+## MINHAS EXPERIÊNCIAS PROFISSIONAIS E PROJETOS 💡  
+### GregMaster - Consultoria e Treinamento em TI [JUN/2017 -]
+
+Realizo prestação de serviço em tecnologia, como consultoria, desenvolvimento de sistemas, sites e aplicativos. Posso oferecer também treinamento para uso de softwares específicos, como por exemplo de ERP, Sistemas de gestão de salão de beleza. 
+Desenvolvimento de novos negócios e oportunidades. Uso esse espaço também para palestrar em eventos e escolas, como a Feira do Empreendedor (SEBRAE/2019), Fatec Sorocaba, Unesp Sorocaba.
+
+#### Links: 
+1. [instituicional] - http://gregmaster.com.br/
+
+
 
 
 <!--
