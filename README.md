@@ -117,6 +117,29 @@ Ambiente para resolução das provas anteriores do vestibular da Fatec. Recurso 
 1. [apresentação]  - https://www.youtube.com/watch?v=-mc5vuPVwIY
 2. [demonstração]  - https://calculadorafatec.gregmaster.com.br/calculadora/simulados-gratuitos/
 
+### Plataforma Digital Participativa - Chatbot [JAN/2018 - ABR/2018]
+
+Plataforma Digital Participativa - DPP para promover a gestão democrática e participativa do meio ambiente.
+
+A legislação ambiental concentra no Poder Público as obrigações e poderes de fiscalização do meio ambiente, sendo que a difusão e compartilhamento de responsabilidades com a própria coletividade podem, potencialmente, atingir melhores resultados.
+
+A exemplo do conceituado site Reclame Aqui (reclameaqui.com.br), a construção de um Plataforma de denúncias colaborativas para situações como (lavar calçadas, provocar incêndios e podas ilegais de árvores) seria ideal para promover uma participação ativa do cidadão com o meio ambiente.  Será utilizado como ponto de partida uma página da rede social facebook para exposição de situações de denúncias, campanhas de conscientização e uma ferramenta de denúncia assistida por um robô (chatbot). Será realizado o processo de curadoria em cima das denúncias recebidas que seriam divulgadas na página social “Do Meu Planeta Cuido Eu” para conscientizar e trazer atenção pública para o caso. Futuramente servindo como elemento para análise dos órgãos competentes para a devida intervenção social.
+
+#### Links:
+1. [demonstração] - https://www.youtube.com/watch?v=FCvhUzTzwGc
+
+### DAPP [CRIAAÇÃO] [JAN/2018 - MAI/2018]
+
+Processo de produtificação em parceria com um graduando da Fatec Sorocaba em seu estudo em reabilitação e ferramentas assistivas. O DAPP é um Dispositivo de Adaptação à Preensão Palmar. 
+
+Recurso terapêutico modular para o exercício e desenvolvimento da autonomia no movimento de preensão palmar, conhecido popularmente como movimento de agarre. O dispositivo foi prototipado em manufatura aditiva, usando como função inicial o acoplamento de uma escova de dente, porém com a possibilidade de adicionar módulos para lápis, colher e outros que precisam do movimento fino.
+
+#### Links:
+1. [site] - http://dapp.criaacao.art.br/
+2. [demonstração] - https://www.youtube.com/watch?v=z06K2goF-dA
+3. [demonstração] - https://www.youtube.com/watch?v=cZ9H9oGy13A
+4. [depoimento] - https://www.youtube.com/watch?v=xPHtA1GUGLQ
+
 
 <!--
 **GregMasterBr/gregmasterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
