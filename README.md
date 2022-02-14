@@ -75,7 +75,7 @@ Aplicativo para colaborar com a empresa em aumentar seu marketshare de mercado. 
 ![Aplicativo NISSIN - Marketing share](https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png)
 -->
 <p align="center">
-  <img alt="Aplicativo NISSIN - Marketing share" width="460" height="300" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
+  <img alt="Aplicativo NISSIN - Marketing share"  height="350" src="https://github.com/GregMasterBr/gregmasterbr/blob/main/img/app-marketingshare-nissin.png"> 
 </p>
 
 
