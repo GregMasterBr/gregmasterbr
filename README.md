@@ -8,16 +8,19 @@
 * [**Facebook**](https://www.facebook.com/GregMasterQueiroz/)
 * [**Youtube**](https://www.youtube.com/user/greg17031991)
 * [**Blog**](https://gregorioalmeidaqueiroz.wordpress.com/)
+* [**Site**](https://www.gregmaster.com.br/)
   
 ## SOBRE MIM 👋  
-Sou analista de sistemas e engenheiro de computação em formação. Nas iniciativas em que colaborei, trabalhei com as principais linguagens de programação: Asp, Asp.Net, VB, C#, PHP, Fox Pro, Javascript e com demandas recorrentes do mercado de tecnologia: manutenção de código, desenvolvimento de painéis dashboards, sistemas do tipo CRUD, plataformas específicas como de inventário comportamental e aplicativos. Neste momento, tenho dedicado meu estudo focado em Python.
+Sou analista de sistemas e engenheiro de computação.   
 
-Sou empreendedor, tendo construído em uma das minhas primeiras iniciativas, o laboratório perfeito para quem deseja começar a empreender. Uma loja virtual com acessórios nerds exclusivos em trico e crochet, a **TricoNerd**. Com essa experiência da loja virtual, aprendi a me relacionar melhor e entender demandas de clientes e consequentemente gestão de negócios - como por exemplo: estudo para desenvolvimento de novas linhas de produto e negociação com fornecedores.
+Nas iniciativas em que colaborei, trabalhei com as principais linguagens de programação: Asp, Asp.Net, VB, C#, PHP, Fox Pro, Javascript e com demandas recorrentes do mercado de tecnologia: manutenção de código, desenvolvimento de painéis gerenciais (dashboards), sistemas do tipo CRUD, plataformas específicas como de inventário comportamental e aplicativos para celular. Neste momento, tenho dedicado meus estudos em **Python**.
 
-Em sequência, tive a oportunidade de desenvolver projetos de tecnologia com parceiros. Como por exemplo o projeto do **LabEye**, dispositivo, prototipado em manufatura aditiva, capaz de “transformar” um microscópio analógico em um equipamento digital.  Com o LabeEye, houveram oportunidades para expor em feiras e eventos, participar de programas de divulgação da cultura maker, submissão em iniciativas de fomento como o Sebrae e Fapesp.
+Tenho um perful empreendedor, tendo construído em uma das minhas primeiras iniciativas, o laboratório perfeito para quem deseja começar a empreender. Uma loja virtual com acessórios nerds exclusivos em trico e crochet, a **TricoNerd**. Com essa experiência da loja virtual, aprendi a me relacionar melhor e entender demandas de clientes e consequentemente gestão de negócios - como por exemplo: **estudo para desenvolvimento de novas linhas de produto e negociação com fornecedores**.  
+
+Em sequência, tive a oportunidade de desenvolver projetos de tecnologia com parceiros. Como por exemplo o projeto do [**LabEye**](https://labeye.criaacao.art.br/), dispositivo, prototipado em manufatura aditiva, capaz de “transformar” um microscópio analógico em um equipamento digital.  Com o LabeEye, participamos de feiras e eventos, programas de divulgação da cultura maker e submissão em editais de fomento como o Sebrae e Fapesp.
 
 
-Atuo como especialista do processo seletivo do Vestibular da Fatec, produzindo conteúdos e ferramentas gratuitas. Desenvolvi também um programa de **Mentoria**, para preparar e acompanhar candidatos para a realização deste vestibular com mais qualidade e direcionamento. O futuro desse projeto é tornar-se uma escola EaD - focada em ensino reativo e personalizado. 
+Atuei como especialista do processo seletivo do Vestibular da Fatec, produzindo conteúdos e ferramentas gratuitas. Desenvolvi também um programa de [**Mentoria**](https://www.fatecclub.gregmaster.com.br/), para preparar e acompanhar candidatos na realização deste vestibular com mais qualidade e direcionamento. O futuro desse projeto é torná-lo uma escola EaD - focada em ensino reativo e personalizado. 
 
 Além destes projetos, tenho o hábito da escrita no meus blogs. Como consequência desse hábito, houve a possibilidade de criar dois e-books, um deles com o tema direcionado ao empreendedorismo para aspirantes ou microempreendedores individuais. 
 
